@@ -1,0 +1,19 @@
+body{
+    padding-top: 10%;
+    background-color: azure;
+}
+
+#content{
+    text-align: center;
+}
+
+button{
+
+    padding-left: 50px;
+    padding-right: 50px;
+
+    background-color: rgb(44, 42, 46);
+    color: antiquewhite;
+
+    font-size: 20px;
+}
