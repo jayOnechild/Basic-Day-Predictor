@@ -10,11 +10,11 @@ function today(){
     
     //Initialising all days of the week
     var sun = '<h1>Its a Blessed Sunday</h1>'+ actualYear;
-    var mon = 'Its a Productive Monday'+ actualYear;
-    var tue = 'Its an Exciting Tuesday'+ actualYear;
-    var wed = 'Its a Great Wednesday'+ actualYear;
-    var thu = 'Its an Exciting Thursday'+ actualYear;
-    var fri = 'Its a Lit! Friday'+ actualYear;
+    var mon = '<h1>Its a Productive Monday</h1>'+ actualYear;
+    var tue = '<h1>Its an Exciting Tuesday</h1>'+ actualYear;
+    var wed = '<h1>Its a Great Wednesday</h1>'+ actualYear;
+    var thu = '<h1>Its an Exciting Thursday</h1>'+ actualYear;
+    var fri = '<h1>Its a Lit! Friday</h1>'+ actualYear;
     var sat = '<h1>Its an Amazing Saturday of </h1>'+ actualYear;
  
     //just for fun addition
